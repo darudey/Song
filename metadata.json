@@ -1,0 +1,6 @@
+{
+  "name": "SoundWave Music",
+  "description": "Stream & search songs via Google and YouTube, create offline playlists, and sync libraries across all your devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
